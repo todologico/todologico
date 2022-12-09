@@ -11,7 +11,7 @@ HTML - CSS - JAVASCRIPT - ANGULARJS - PHP - POO - LARAVEL - MVC - MYSQL - POSTGR
 
 Next Objective: GOLAND
 
-##### Nationalities: I was born in Argentine and have German citizenship.
+##### Nationalities: Argentine and German.
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>](https://www.linkedin.com/in/arturo-diehl-018986255/)  [<img src="https://img.shields.io/badge/Web-todologico.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010" height="30"/>](https://www.todologico.com/)
 
