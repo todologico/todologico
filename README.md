@@ -6,11 +6,12 @@ Professional Developer with more than 15 years of experience building websites a
 After working for different software companies, in 2003 I decided to open my own project, and since then I have done a huge amount of solutions, from custom websites for wholesale companies to bespoke software connecting with Insurance companies.
 Offering to my customers the best in programming, development and business consulting, generating quality solutions that accompany their business models over time.
 
-Tech Stack: HTML - CSS - JAVASCRIPT - ANGULARJS - PHP - POO - LARAVEL - MVC - MYSQL - POSTGRESQL - API REST - MICROSERVICES - PATTERNS - TDD - GIT - GITHUB - CICD - DOCKER - LAMP - CENTOS - UBUNTU
+##### Tech Stack:
+HTML - CSS - JAVASCRIPT - ANGULARJS - PHP - POO - LARAVEL - MVC - MYSQL - POSTGRESQL - API REST - MICROSERVICES - PATTERNS - TDD - GIT - GITHUB - CICD - DOCKER - LAMP - CENTOS - UBUNTU
 
 Next Objective: GOLAND
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100"/>](https://www.linkedin.com/in/arturo-diehl-018986255/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>](https://www.linkedin.com/in/arturo-diehl-018986255/)  [<img src="https://img.shields.io/badge/Web-todologico.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010" height="30"/>](https://www.todologico.com/)
 
 <!--
 **todologico/todologico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
