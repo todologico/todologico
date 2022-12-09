@@ -10,6 +10,8 @@ Tech Stack: HTML - CSS - JAVASCRIPT - ANGULARJS - PHP - POO - LARAVEL - MVC - MY
 
 Next Objective: GOLAND
 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100"/>](https://www.linkedin.com/in/arturo-diehl-018986255/)
+
 <!--
 **todologico/todologico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
