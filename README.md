@@ -1,4 +1,11 @@
-### Hi there 👋
+### Todológico 🌱
+#### Professional Web Programmer - Business Solutions
+
+Professional Developer with more than 15 years of experience building websites and software solutions.
+After working for different software companies, in 2003 I decided to open my own project, and since then I have done a huge amount of solutions, from custom websites for wholesale companies to bespoke software connecting with Insurance companies.
+Offering to my customers the best in programming, development and business consulting, generating quality solutions that accompany their business models over time.
+
+Tech Stack: HTML - CSS - JAVASCRIPT - ANGULARJS - PHP - POO - LARAVEL - MVC - MYSQL - POSTGRESQL - API REST - MICROSERVICES - TDD - GIT - GITHUB - CICD - DOCKER - LAMP - CENTOS - UBUNTU
 
 <!--
 **todologico/todologico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
