@@ -16,7 +16,7 @@ Next Objective: GOLAND
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>](https://www.linkedin.com/in/arturo-d-018986255/)  [<img src="https://img.shields.io/badge/Web-todologico.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010" height="30"/>](https://www.todologico.com/)
 
-#### Go To Statement Considered Harmful - Edsger W. Dijkstra: 
+#### "Go To Statement Considered Harmful" - Edsger W. Dijkstra - March 1968: 
 
 "My first remark is that, although the programmer's activity ends when he has constructed a correct program, the process taking place under control of his program is the true subject matter of his activity, for it is this process that has to accomplish the desired effect; it is this process that in its dynamic behavior has to satisfy the desired specifications. Yet, once the program has been made, the "making' of the corresponding process is delegated to the machine.
 
