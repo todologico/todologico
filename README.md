@@ -2,7 +2,7 @@
 #### Professional Web Programmer - Business Solutions
 ![https://github.com/todologico](https://raw.githubusercontent.com/todologico/todologico/main/todologico2.png)
 
-Professional Developer owning more than 15 years of experience building websites and software solutions. In 2003, after having worked for different software companies, I decided to start my project. Since then, I have performed a wide range of solutions, from custom websites for wholesale companies to bespoke software for Insurance companies. I offer my customers high standards in programming, development, and business consulting, generating quality solutions that accompany their business models over time. My clients are companies and SMEs, who will get high-quality developments according to their expectations and needs.
+Professional Developer owning more than 15 years of experience building websites and software solutions. After having worked for different software companies, I decided to start my project. Since then, I have performed a wide range of solutions, from custom websites for wholesale companies to bespoke software for Insurance companies. I offer my customers high standards in programming, development, and business consulting, generating quality solutions that accompany their business models over time. My clients are companies and SMEs, who will get high-quality developments according to their expectations and needs.
 
 ##### Tech Path:
 Object Oriented Programming - Object Oriented Analysis and Design - Patterns - GRASP - Clean Code - SOLID - Software Architecture - Testing - Repository SVN  - Metrics
