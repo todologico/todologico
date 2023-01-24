@@ -2,9 +2,7 @@
 #### Professional Web Programmer - Business Solutions
 ![https://github.com/todologico](https://raw.githubusercontent.com/todologico/todologico/main/todologico2.png)
 
-I'm a Professional Web Programmer with more than 15 years' experience building websites and software solutions. I have performed a wide range of projects, from custom websites for wholesale companies to bespoke software for Insurance companies.
-
-My main goal is to produce high-quality and robust software, ensuring that the end customer gets an excellent product and the best user experience.
+I'm a Professional Web Programmer with more than 15 years' experience building websites and software solutions. I have performed a wide range of projects, from custom websites for wholesale companies to bespoke software for Insurance companies. My main goal is to produce high-quality and robust software, ensuring that the end customer gets an excellent product and the best user experience.
 
 This is my knowledge:
 
@@ -15,7 +13,7 @@ Object Oriented Programming - Object Oriented Analysis and Design - Patterns - G
 HTML - CSS - JAVASCRIPT - ANGULARJS - PHP - POO - LARAVEL - MVC - MYSQL - POSTGRESQL - API REST - MICROSERVICES - TDD - GIT - GITHUB - CICD - DOCKER - LAMP - CENTOS - UBUNTU
 
 
-##### Nationalities: Argentine and German
+##### Nationalities: German and Argentine
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>](https://www.linkedin.com/in/arturo-todologico/)  [<img src="https://img.shields.io/badge/Web-todologico.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010" height="30"/>](https://www.todologico.com/)
 
