@@ -2,7 +2,11 @@
 #### Professional Web Programmer - Business Solutions
 ![https://github.com/todologico](https://raw.githubusercontent.com/todologico/todologico/main/todologico2.png)
 
-Professional Developer owning more than 15 years of experience building websites and software solutions. After having worked for different software companies, I decided to start my project. Since then, I have performed a wide range of solutions, from custom websites for wholesale companies to bespoke software for Insurance companies. I offer my customers high standards in programming, development, and business consulting, generating quality solutions that accompany their business models over time. My clients are companies and SMEs, who will get high-quality developments according to their expectations and needs.
+I'm a Professional Web Programmer with more than 15 years' experience building websites and software solutions. I have performed a wide range of projects, from custom websites for wholesale companies to bespoke software for Insurance companies.
+
+My main goal is to produce high-quality and robust software, ensuring that the end customer gets an excellent product and the best user experience.
+
+This is my knowledge:
 
 ##### Tech Path:
 Object Oriented Programming - Object Oriented Analysis and Design - Patterns - GRASP - Clean Code - SOLID - Software Architecture - Testing - Repository SVN  - Metrics
@@ -10,7 +14,6 @@ Object Oriented Programming - Object Oriented Analysis and Design - Patterns - G
 ##### Tech Stack:
 HTML - CSS - JAVASCRIPT - ANGULARJS - PHP - POO - LARAVEL - MVC - MYSQL - POSTGRESQL - API REST - MICROSERVICES - TDD - GIT - GITHUB - CICD - DOCKER - LAMP - CENTOS - UBUNTU
 
-Next Objective: GOLAND
 
 ##### Nationalities: Argentine and German
 
