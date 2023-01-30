@@ -12,6 +12,8 @@ Object Oriented Programming - Object Oriented Analysis and Design - Patterns - G
 ##### Tech Stack:
 HTML - CSS - JAVASCRIPT - ANGULARJS - PHP - POO - LARAVEL - MVC - MYSQL - POSTGRESQL - API REST - MICROSERVICES - TDD - GIT - GITHUB - CICD - DOCKER - LAMP - CENTOS - UBUNTU
 
+##### Personal Stack: 
+Focus on processes - Problem solving - Good team player - Good interpersonal skills - Analytical skills - Organisation - Responsibility 
 
 ##### Nationalities: German and Argentine
 
