@@ -10,7 +10,7 @@ This is my knowledge:
 Object Oriented Programming - Object Oriented Analysis and Design - Patterns - GRASP - Clean Code - SOLID - Software Architecture - Testing - Repository SVN  - Metrics
 
 ##### Tech Stack:
-HTML - CSS - JAVASCRIPT - ANGULARJS - PHP - POO - LARAVEL - MVC - MYSQL - POSTGRESQL - API REST - MICROSERVICES - TDD - GIT - GITHUB - CICD - DOCKER - LAMP - CENTOS - UBUNTU
+HTML - CSS - JAVASCRIPT - ANGULARJS - VUEJS - PHP - POO - LARAVEL - MVC - MYSQL - POSTGRESQL - API REST - MICROSERVICES - TDD - GIT - GITHUB - CICD - DOCKER - LAMP - CENTOS - UBUNTU
 
 ##### Personal Stack: 
 Focus on processes - Problem solving - Good team player - Good interpersonal skills - Analytical skills - Organisation - Responsibility 
