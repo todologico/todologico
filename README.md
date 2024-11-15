@@ -18,7 +18,7 @@ Focus on processes - Problem solving - Good team player - Good interpersonal ski
 ##### Nationalities: German and Argentine
 
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>](https://www.linkedin.com/in/arturo-todologico/)  [<img src="https://img.shields.io/badge/Web-todologico.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010" height="30"/>](https://www.todologico.com/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>](https://www.linkedin.com/in/arturo-todologico/) 
 
 
 <!--
