@@ -1,6 +1,5 @@
 ### Backend Professional + Golang + PHP Laravel + API + Microservices 🌱
 #### Professional Web Programmer - Business Solutions
-![https://github.com/todologico](https://raw.githubusercontent.com/todologico/todologico/main/githubtodologico.png)
 
 #### I'm a Professional Programmer with more than 15 years' experience building websites and software solutions. I have performed a wide range of projects, from custom websites for wholesale companies to bespoke software for Insurance companies. My main goal is to produce high-quality and robust software, ensuring that the end customer gets an excellent product and the best user experience.
 
